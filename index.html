@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>韵脚检查</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/pinyin-pro@3.27.0/dist/index.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>韵脚检查</h1>
+        <div class="main-content">
+            <div class="input-section">
+                <h2>说唱留下文字</h2>
+                <textarea id="poemInput" placeholder="在这里输入你的歌词..."></textarea>
+            </div>
+            <div class="result-section">
+                <h2>押韵连成歌词</h2>
+                <div id="visualizationResult"></div>
+            </div>
+        </div>
+        <div class="options-section">
+            <h2>检测选项</h2>
+            <div class="options-container">
+                <div class="option-item with-tolerance">
+                    <div class="option-label">检测句间押韵</div>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="detectInterLineRhyme" class="toggle-input" checked>
+                        <label for="detectInterLineRhyme" class="toggle-label"></label>
+                    </div>
+                    <div class="tolerance-slider">
+                        <label>间隔容差:</label>
+                        <input type="range" id="interLineTolerance" min="0" max="5" value="2" step="1">
+                        <span id="interLineToleranceValue">2</span>
+                    </div>
+                    <div class="tolerance-slider">
+                        <label>行差容差:</label>
+                        <input type="range" id="interLineLineDiffTolerance" min="1" max="4" value="1" step="1">
+                        <span id="interLineLineDiffToleranceValue">1</span>
+                    </div>
+                </div>
+                <div class="option-item with-tolerance">
+                    <div class="option-label">检测句内押韵</div>
+                    <div class="toggle-switch">
+                        <input type="checkbox" id="detectInternalRhyme" class="toggle-input" checked>
+                        <label for="detectInternalRhyme" class="toggle-label"></label>
+                    </div>
+                    <div class="tolerance-slider">
+                        <label>间隔容差:</label>
+                        <input type="range" id="internalRhymeTolerance" min="0" max="5" value="1" step="1">
+                        <span id="internalRhymeToleranceValue">1</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,162 @@
+{
+  "A": {
+    "a": [
+      "a", "ba", "pa", "ma", "fa", "da", "ta", "na", "la", "ga", "ka", "ha", "za", "ca", "sa", "zha", "cha", "sha", "ya", "wa"
+    ], 
+    "ia": [
+      "dia", "lia", "jia", "qia", "xia"
+    ],
+    "ua": [ 
+      "gua", "kua", "hua", "zhua", "chua", "shua"
+    ]
+  },
+  "O": {
+    "o": [
+      "o", "bo", "po", "mo", "fo", "lo", "yo", "wo"
+    ],
+    "uo": [ 
+      "duo", "tuo", "nuo", "luo", "guo", "kuo", "huo", "zuo", "cuo", "suo", "zhuo", "chuo", "shuo", "ruo"
+    ]
+  },
+  "E": {
+    "e": [ 
+      "e", "me", "de", "te", "ne", "le", "ge", "ke", "he", "ze", "ce", "se", "zhe", "che", "she", "re"
+    ]
+  },
+  "IE": {
+    "ie": [
+      "bie", "pie", "mie", "die", "tie", "nie", "lie", "jie", "qie", " xie"
+    ],
+    "ye": [
+      "ye"
+    ],
+    "yue": [ 
+      "jue", "que", "xue", "yue"
+    ],
+    "üe": [
+      "nüe", "lüe"
+    ]
+  },
+  "I": {
+    "i": [
+      "zi", "ci", "si", "zhi", "chi", "shi", "ri"
+    ]
+  },
+  "YI": {
+    "yi": [
+      "bi", "pi", "mi", "di", "ti", "ni", "li", "ji", "qi", "xi", "yi"
+    ]
+  },
+  "U": {
+    "u":[
+      "bu", "pu", "mu", "fu", "du", "tu", "nu", "lu", "gu", "ku", "hu", "zu", "cu", "su", "zhu", "chu", "shu", "ru", "wu"
+    ]
+  },
+  "YU": {
+    "yu": [
+      "ju", "qu", "xu", "yu"
+    ],
+    "ü": [
+      "nü", "lü"
+    ]
+  },
+  "AI": { 
+    "ai": [
+      "ai", "bai", "pai", "mai", "dai", "tai", "nai", "lai", "gai", "kai", "hai", "zai", "cai", "sai", "zhai", "chai", "shai", "wai"
+    ],
+    "uai": [
+      "guai", "kuai", "huai", "zhuai", "chuai", "shuai"
+    ]
+  },
+  "EI": {
+    "ei": [
+      "ei", "bei", "pei", "mei", "fei", "dei", "nei", "lei", "gei", "hei", "zei", "zhei", "wei"
+    ],
+    "ui": [
+      "dui", "tui", "gui", " kui", "hui", "zui", "cui", "sui", "zhui", "chui", "shui", "rui"
+    ]
+  },
+  "AO": {
+    "ao": [
+      "ao", "bao", "pao", "mao", "dao", "tao", "nao", "lao", "gao", "kao", "hao", "zao", "cao", "sao", "zhao", "chao", "shao", "rao", "yao"
+    ],
+    "iao": [
+      "biao", "piao", "miao", "diao", "tiao", "niao", "liao", "jiao", "qiao", "xiao"
+    ]
+  },
+  "OU": {
+    "ou": [
+      "ou", "pou", "mou", "fou", "dou", "tou", "nou", "lou", "gou", "kou", "hou", "zou", "cou", "sou", "zhou", "chou", "shou", "rou", "you"
+    ],
+    "iu": [
+      "miu", "diu", "niu", "liu", "jiu", "qiu", "xiu"
+    ]
+  },
+  "AN": {
+    "an": [
+      "an", "ban", "pan", "man", "fan", "dan", "tan", "nan", "lan", "gan", "kan", "han", "zan", "can", "san", "zhan", "chan", "shan", "ran", "wan"
+    ],
+    "uan": [
+      "duan", "tuan", "nuan", "luan", "guan", "kuan", "huan", "zuan", "cuan", "suan", "zhuan", "chuan", "shuan", "ruan"
+    ]
+  },
+  "YAN": {
+    "yan": [
+      "yan"
+    ],
+    "ian": [
+      "bian", "pian", "mian", "dian", "tian", "nian", "lian", "jian", "qian", "xian"
+    ], 
+    "yuan": [
+      "juan", "quan", "xuan", "yuan"
+    ]
+  },
+  "EN": {
+    "en": [
+      "en", "ben", "pen", "men", "fen", "den", "nen", "gen", "ken", "hen", "zen", "cen", "sen", "zhen", "chen", "shen", "ren", "wen"
+    ],
+    "eng": [
+      "eng", "beng", "peng", "meng", "feng", "deng", "teng", "neng", "leng", "geng", "keng", "heng", "zeng", "ceng", "seng", "zheng", "cheng", "sheng", "reng", "weng"
+    ],
+    "un":[
+      "dun", "tun", "nun", "lun", "gun", "kun", "hun", "zun", "cun", "sun", "zhun", "chun", "shun", "run"
+    ]
+  },
+  "IN": {
+    "in": [
+      "bin", "pin", "min", "nin", "lin", "jin", "qin", "xin", "yin"
+    ],
+    "ing": [
+      "bing", "ping", "ming", "ding", "ting", "ning", "ling", "jing", "qing", "xing", "ying"
+    ]
+  },
+  "YUN": {
+    "yun": [
+      "jun", "qun", "xun", "yun"
+    ]
+  },
+  "ANG": {
+    "ang": [
+      "ang", "bang", "pang", "mang", "fang", "dang", "tang", "nang", "lang", "gang", "kang", "hang", "zang", "cang", "sang", "zhang", "chang", "shang", "rang", "yang", "wang"
+    ],
+    "iang": [
+      "biang", "niang", "liang", "jiang", "qiang", "xiang"
+    ],
+    "uang": [
+      "guang", "kuang", "huang", "zhuang", "chuang", "shuang"
+    ]
+  },
+  "ONG": {
+    "ong":[
+      "dong", "tong", "nong", "long", "gong", "kong", "hong", "zong", "cong", "song", "zhong", "chong", "rong", "yong"
+    ],
+    "iong": [
+      "jiong", "qiong", "xiong"
+    ]
+  },
+  "ER": {
+    "er": [
+      "er"
+    ]
+  }
+}

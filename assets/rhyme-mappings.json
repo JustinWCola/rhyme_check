@@ -1,0 +1,1638 @@
+{
+  "a": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ba": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "pa": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ma": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "fa": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "da": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ta": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "na": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "la": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ga": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ka": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ha": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "za": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ca": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "sa": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "zha": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "cha": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "sha": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "ya": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "wa": {
+    "normalGroup": "A",
+    "strictGroup": "a"
+  },
+  "dia": {
+    "normalGroup": "A",
+    "strictGroup": "ia"
+  },
+  "lia": {
+    "normalGroup": "A",
+    "strictGroup": "ia"
+  },
+  "jia": {
+    "normalGroup": "A",
+    "strictGroup": "ia"
+  },
+  "qia": {
+    "normalGroup": "A",
+    "strictGroup": "ia"
+  },
+  "xia": {
+    "normalGroup": "A",
+    "strictGroup": "ia"
+  },
+  "gua": {
+    "normalGroup": "A",
+    "strictGroup": "ua"
+  },
+  "kua": {
+    "normalGroup": "A",
+    "strictGroup": "ua"
+  },
+  "hua": {
+    "normalGroup": "A",
+    "strictGroup": "ua"
+  },
+  "zhua": {
+    "normalGroup": "A",
+    "strictGroup": "ua"
+  },
+  "chua": {
+    "normalGroup": "A",
+    "strictGroup": "ua"
+  },
+  "shua": {
+    "normalGroup": "A",
+    "strictGroup": "ua"
+  },
+  "o": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "bo": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "po": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "mo": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "fo": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "lo": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "yo": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "wo": {
+    "normalGroup": "O",
+    "strictGroup": "o"
+  },
+  "duo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "tuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "nuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "luo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "guo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "kuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "huo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "zuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "cuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "suo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "zhuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "chuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "shuo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "ruo": {
+    "normalGroup": "O",
+    "strictGroup": "uo"
+  },
+  "e": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "me": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "de": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "te": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "ne": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "le": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "ge": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "ke": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "he": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "ze": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "ce": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "se": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "zhe": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "che": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "she": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "re": {
+    "normalGroup": "E",
+    "strictGroup": "e"
+  },
+  "bie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "pie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "mie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "die": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "tie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "nie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "lie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "jie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "qie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "xie": {
+    "normalGroup": "IE",
+    "strictGroup": "ie"
+  },
+  "ye": {
+    "normalGroup": "IE",
+    "strictGroup": "ye"
+  },
+  "jue": {
+    "normalGroup": "IE",
+    "strictGroup": "yue"
+  },
+  "que": {
+    "normalGroup": "IE",
+    "strictGroup": "yue"
+  },
+  "xue": {
+    "normalGroup": "IE",
+    "strictGroup": "yue"
+  },
+  "yue": {
+    "normalGroup": "IE",
+    "strictGroup": "yue"
+  },
+  "nüe": {
+    "normalGroup": "IE",
+    "strictGroup": "üe"
+  },
+  "lüe": {
+    "normalGroup": "IE",
+    "strictGroup": "üe"
+  },
+  "zi": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "ci": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "si": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "zhi": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "chi": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "shi": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "ri": {
+    "normalGroup": "I",
+    "strictGroup": "i"
+  },
+  "bi": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "pi": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "mi": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "di": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "ti": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "ni": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "li": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "ji": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "qi": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "xi": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "yi": {
+    "normalGroup": "YI",
+    "strictGroup": "yi"
+  },
+  "bu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "pu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "mu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "fu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "du": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "tu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "nu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "lu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "gu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "ku": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "hu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "zu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "cu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "su": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "zhu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "chu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "shu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "ru": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "wu": {
+    "normalGroup": "U",
+    "strictGroup": "u"
+  },
+  "ju": {
+    "normalGroup": "YU",
+    "strictGroup": "yu"
+  },
+  "qu": {
+    "normalGroup": "YU",
+    "strictGroup": "yu"
+  },
+  "xu": {
+    "normalGroup": "YU",
+    "strictGroup": "yu"
+  },
+  "yu": {
+    "normalGroup": "YU",
+    "strictGroup": "yu"
+  },
+  "nü": {
+    "normalGroup": "YU",
+    "strictGroup": "ü"
+  },
+  "lü": {
+    "normalGroup": "YU",
+    "strictGroup": "ü"
+  },
+  "ai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "bai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "pai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "mai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "dai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "tai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "nai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "lai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "gai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "kai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "hai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "zai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "cai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "sai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "zhai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "chai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "shai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "wai": {
+    "normalGroup": "AI",
+    "strictGroup": "ai"
+  },
+  "guai": {
+    "normalGroup": "AI",
+    "strictGroup": "uai"
+  },
+  "kuai": {
+    "normalGroup": "AI",
+    "strictGroup": "uai"
+  },
+  "huai": {
+    "normalGroup": "AI",
+    "strictGroup": "uai"
+  },
+  "zhuai": {
+    "normalGroup": "AI",
+    "strictGroup": "uai"
+  },
+  "chuai": {
+    "normalGroup": "AI",
+    "strictGroup": "uai"
+  },
+  "shuai": {
+    "normalGroup": "AI",
+    "strictGroup": "uai"
+  },
+  "ei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "bei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "pei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "mei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "fei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "dei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "nei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "lei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "gei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "hei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "zei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "zhei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "wei": {
+    "normalGroup": "EI",
+    "strictGroup": "ei"
+  },
+  "dui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "tui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "gui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "kui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "hui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "zui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "cui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "sui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "zhui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "chui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "shui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "rui": {
+    "normalGroup": "EI",
+    "strictGroup": "ui"
+  },
+  "ao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "bao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "pao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "mao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "dao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "tao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "nao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "lao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "gao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "kao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "hao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "zao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "cao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "sao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "zhao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "chao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "shao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "rao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "yao": {
+    "normalGroup": "AO",
+    "strictGroup": "ao"
+  },
+  "biao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "piao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "miao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "diao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "tiao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "niao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "liao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "jiao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "qiao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "xiao": {
+    "normalGroup": "AO",
+    "strictGroup": "iao"
+  },
+  "ou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "pou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "mou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "fou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "dou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "tou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "nou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "lou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "gou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "kou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "hou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "zou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "cou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "sou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "zhou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "chou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "shou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "rou": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "you": {
+    "normalGroup": "OU",
+    "strictGroup": "ou"
+  },
+  "miu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "diu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "niu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "liu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "jiu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "qiu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "xiu": {
+    "normalGroup": "OU",
+    "strictGroup": "iu"
+  },
+  "an": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "ban": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "pan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "man": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "fan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "dan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "tan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "nan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "lan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "gan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "kan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "han": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "zan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "can": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "san": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "zhan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "chan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "shan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "ran": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "wan": {
+    "normalGroup": "AN",
+    "strictGroup": "an"
+  },
+  "duan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "tuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "nuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "luan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "guan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "kuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "huan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "zuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "cuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "suan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "zhuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "chuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "shuan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "ruan": {
+    "normalGroup": "AN",
+    "strictGroup": "uan"
+  },
+  "yan": {
+    "normalGroup": "YAN",
+    "strictGroup": "yan"
+  },
+  "bian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "pian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "mian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "dian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "tian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "nian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "lian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "jian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "qian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "xian": {
+    "normalGroup": "YAN",
+    "strictGroup": "ian"
+  },
+  "juan": {
+    "normalGroup": "YAN",
+    "strictGroup": "yuan"
+  },
+  "quan": {
+    "normalGroup": "YAN",
+    "strictGroup": "yuan"
+  },
+  "xuan": {
+    "normalGroup": "YAN",
+    "strictGroup": "yuan"
+  },
+  "yuan": {
+    "normalGroup": "YAN",
+    "strictGroup": "yuan"
+  },
+  "en": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "ben": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "pen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "men": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "fen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "den": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "nen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "gen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "ken": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "hen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "zen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "cen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "sen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "zhen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "chen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "shen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "ren": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "wen": {
+    "normalGroup": "EN",
+    "strictGroup": "en"
+  },
+  "eng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "beng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "peng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "meng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "feng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "deng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "teng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "neng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "leng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "geng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "keng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "heng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "zeng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "ceng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "seng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "zheng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "cheng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "sheng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "reng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "weng": {
+    "normalGroup": "EN",
+    "strictGroup": "eng"
+  },
+  "dun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "tun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "nun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "lun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "gun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "kun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "hun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "zun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "cun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "sun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "zhun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "chun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "shun": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "run": {
+    "normalGroup": "EN",
+    "strictGroup": "un"
+  },
+  "bin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "pin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "min": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "nin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "lin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "jin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "qin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "xin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "yin": {
+    "normalGroup": "IN",
+    "strictGroup": "in"
+  },
+  "bing": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ping": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ming": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ding": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ting": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ning": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ling": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "jing": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "qing": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "xing": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "ying": {
+    "normalGroup": "IN",
+    "strictGroup": "ing"
+  },
+  "jun": {
+    "normalGroup": "YUN",
+    "strictGroup": "yun"
+  },
+  "qun": {
+    "normalGroup": "YUN",
+    "strictGroup": "yun"
+  },
+  "xun": {
+    "normalGroup": "YUN",
+    "strictGroup": "yun"
+  },
+  "yun": {
+    "normalGroup": "YUN",
+    "strictGroup": "yun"
+  },
+  "ang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "bang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "pang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "mang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "fang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "dang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "tang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "nang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "lang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "gang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "kang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "hang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "zang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "cang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "sang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "zhang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "chang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "shang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "rang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "yang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "wang": {
+    "normalGroup": "ANG",
+    "strictGroup": "ang"
+  },
+  "biang": {
+    "normalGroup": "ANG",
+    "strictGroup": "iang"
+  },
+  "niang": {
+    "normalGroup": "ANG",
+    "strictGroup": "iang"
+  },
+  "liang": {
+    "normalGroup": "ANG",
+    "strictGroup": "iang"
+  },
+  "jiang": {
+    "normalGroup": "ANG",
+    "strictGroup": "iang"
+  },
+  "qiang": {
+    "normalGroup": "ANG",
+    "strictGroup": "iang"
+  },
+  "xiang": {
+    "normalGroup": "ANG",
+    "strictGroup": "iang"
+  },
+  "guang": {
+    "normalGroup": "ANG",
+    "strictGroup": "uang"
+  },
+  "kuang": {
+    "normalGroup": "ANG",
+    "strictGroup": "uang"
+  },
+  "huang": {
+    "normalGroup": "ANG",
+    "strictGroup": "uang"
+  },
+  "zhuang": {
+    "normalGroup": "ANG",
+    "strictGroup": "uang"
+  },
+  "chuang": {
+    "normalGroup": "ANG",
+    "strictGroup": "uang"
+  },
+  "shuang": {
+    "normalGroup": "ANG",
+    "strictGroup": "uang"
+  },
+  "dong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "tong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "nong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "long": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "gong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "kong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "hong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "zong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "cong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "song": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "zhong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "chong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "rong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "yong": {
+    "normalGroup": "ONG",
+    "strictGroup": "ong"
+  },
+  "jiong": {
+    "normalGroup": "ONG",
+    "strictGroup": "iong"
+  },
+  "qiong": {
+    "normalGroup": "ONG",
+    "strictGroup": "iong"
+  },
+  "xiong": {
+    "normalGroup": "ONG",
+    "strictGroup": "iong"
+  },
+  "er": {
+    "normalGroup": "ER",
+    "strictGroup": "er"
+  }
+}
